@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: user-ms
+  mongodb:
+    uri: mongodb://bookstore:bookstore123@localhost:27017/userDB?authSource=admin
+
+server:
+  port: 8082
