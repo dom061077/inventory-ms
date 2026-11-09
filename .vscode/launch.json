@@ -15,7 +15,8 @@
       "name": "InventoryMsApplication",
       "request": "launch",
       "mainClass": "com.packt.bookstore.inventory.InventoryMsApplication",
-      "projectName": "inventory-ms"
+      "projectName": "inventory-ms",
+      "vmArgs": "-Duser.timezone=America/Argentina/Buenos_Aires"
     },
     {
       "type": "java",
